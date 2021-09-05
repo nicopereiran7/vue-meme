@@ -29,6 +29,7 @@ export default {
   &__logo {
     a {
       text-decoration: none;
+      color: #fff;
 
       span {
         color: #18af68;
@@ -39,6 +40,7 @@ export default {
   &__item {
     a {
       text-decoration: none;
+      color: #fff;
     }
   }
 }
